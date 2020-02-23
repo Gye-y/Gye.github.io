@@ -12,15 +12,15 @@
     </td>
   </tr>
 </table>
-<h2>#Personal Information</h2>
+<h2>#基本信息</h2>
 <p>From:浙江台（tai第一声）州<p>
-<h2>##Latest news</h2>
+<h2>##最新经历</h2>
 <p>抗疫ing，宅家的第33天...<p>
 <p>（持续更新中.....）<p>
-<h2>##Ultimate goal</h2>
+<h2>##终极目标</h2>
 <p>ZJU<p>
 <p>冲冲冲<p>
-<h2>##Personal experience</h2>
+<h2>##个人经历</h2>
 <p>链接@<p>
-<h2>##Life motto</h2>
+<h2>##人生格言（激励自己）</h2>
 <p>1、Never give up！<p>
