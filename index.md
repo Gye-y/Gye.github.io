@@ -8,7 +8,7 @@
       <p><b>地址：银河系太阳系第三行星地球村中国浙江省</b></p>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
+      <img src="/Gyeee.jpg" width="100%">      % 插入证件照代码
     </td>
   </tr>
 </table>
