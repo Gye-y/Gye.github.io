@@ -7,8 +7,7 @@
       <p><b>邮箱：1181746160@qq.com</b></p>
       <p><b>地址：银河系太阳系第三行星地球村中国浙江省</b></p>
     </td>
-    <td width="25%">
-      <img src="/Gyeee.jpg" width="100%">  
+    <td width="25%">  
     </td>
   </tr>
 </table>
